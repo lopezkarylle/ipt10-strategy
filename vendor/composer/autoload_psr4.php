@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'User003\\Ipt10Strategy\\' => array($baseDir . '/src'),
+    'Strategy\\' => array($baseDir . '/src'),
 );

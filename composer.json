@@ -2,7 +2,7 @@
     "name": "user003/ipt10-strategy",
     "autoload": {
         "psr-4": {
-            "App\\": "src/"
+            "Strategy\\": "src/"
         }
     },
     "authors": [
